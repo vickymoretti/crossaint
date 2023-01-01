@@ -1,3 +1,22 @@
 body {
 	background-color: #f2eeeb;
 }
+
+h1,
+h4,
+p,
+a {
+	font-family: sans-serif;
+	text-align: center;
+	padding-top: 20px;
+}
+
+a {
+	margin: 5px;
+}
+
+img {
+	max-width: 50%;
+	display: block;
+	text-align: center;
+}
